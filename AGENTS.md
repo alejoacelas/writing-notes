@@ -1,10 +1,16 @@
 ---
 agent_context:
   version: 1
-  groups: []
+  groups:
+  - wiki
   visibility: public
 ---
-<!-- agent-context:begin sha256=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
+<!-- agent-context:begin sha256=713854e8106b7ca9c50df7300d0e10a1ef2ae8857714db6f9d1cfe9afe7ff768 -->
+<!-- shared group: wiki -->
+# Reference material
+
+- Keep explanations and reusable reference material here; keep project-specific research with its project.
+- Preserve useful topic groups. Link primary sources and distinguish tested behavior from documentation.
 <!-- agent-context:end -->
 
-Work within writing; preserve its existing purpose and source material.
+Reference collection of Peter Hartree’s AI Wow journal posts. Preserve attribution and source links.
