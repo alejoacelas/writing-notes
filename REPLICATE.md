@@ -16,3 +16,11 @@ The human wanted to remove unstarted personal projects and simplify the remainin
 - Moved `me/writing` to `wiki/peter-hartree-ai-journal`; identified its 162 Peter Hartree posts as reference material and adopted wiki instructions.
 
 Agent session 01a0b90b-7ae3-7ed1-bb2f-fde3ad5d78d3 · Commits peter-hartree-ai-journal: 27824a8
+
+## Organize writing by subject
+
+The human wanted the writing collection grouped into AI, software and life.
+
+- Moved `writing/peter-hartree-ai-journal` to `writing/ai/peter-hartree-ai-journal`, preserving repository history and privacy settings.
+
+Agent session 01a0b90b-7ae3-7ed1-bb2f-fde3ad5d78d3 · Commits writing: e7272f7
